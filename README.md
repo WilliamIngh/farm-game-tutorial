@@ -1,2 +1,5 @@
 # Farm Game Tutorial
-Contains the assets for the farm game tutorial
+bool IsPlanted = false;
+    public GameObject plant;
+    ''edited by William Ingham
+      Contains the assets for the farm game tutorial
